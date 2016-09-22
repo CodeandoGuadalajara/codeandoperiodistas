@@ -22,6 +22,12 @@ Somos un grupo de desarrolladores y periodistas que trabajan en proyectos de Per
 
 # Desarrolladores
 * Bernardo Martínez
+*
+
+
+# Interesados
+* Ricardo Velázquez González
+* 
 
 
 # Reglas del Juego:
