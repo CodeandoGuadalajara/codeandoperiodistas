@@ -2,7 +2,7 @@
 Codeando Periodistas GDL
 
 
-# Descripcion del Grupo
+# Descripción del Grupo
 Somos un grupo de desarrolladores y periodistas que trabajan en proyectos de Periodismo de Datos con base en información o datasets públicos.
 
 
