@@ -27,7 +27,7 @@ Somos un grupo de desarrolladores y periodistas que trabajan en proyectos de Per
 
 # Interesados
 * Ricardo Velázquez González
-* 
+* Damaris Castorena Ramirez 
 
 
 # Reglas del Juego:
