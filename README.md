@@ -5,7 +5,7 @@ Codeando Periodistas GDL
 Somos un grupo de desarrolladores y periodistas que trabajan en proyectos de Periodismo de Datos con base en información o datasets públicos.
 
 ### Periodistas
-* Elizabeth Ortiz Diario (NTR)
+* Elizabeth Ortiz (Diario NTR)
 * Martha Hernández (Crónica Jalisco)
 * Ricardo Balderas (Proceso/Crónica)
 * Jorge Covarrubias (Periodista Independiente)
