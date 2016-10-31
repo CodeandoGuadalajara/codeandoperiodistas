@@ -1,4 +1,6 @@
 # CodeandoPeriodistas
+
+[![Join the chat at https://gitter.im/CodeandoGuadalajara/codeandoperiodistas](https://badges.gitter.im/CodeandoGuadalajara/codeandoperiodistas.svg)](https://gitter.im/CodeandoGuadalajara/codeandoperiodistas?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Codeando Periodistas GDL
 
 ## Descripción del Grupo
